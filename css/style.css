@@ -130,7 +130,7 @@ h1{
     box-shadow: 0px 0px 25px 0px;
     flex-direction: row;
     flex-flow: wrap;
-display: grid;
+display: flex;
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 align-items: center;
