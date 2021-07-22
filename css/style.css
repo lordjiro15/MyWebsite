@@ -150,7 +150,7 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 align-items: center;
 height: auto;
 
-grid-template-columns: repeat(auto-fit,minmax(480px,1fr));
+grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
 text-align: center;
 grid-gap: 10px;
 margin-top: -5rem;
