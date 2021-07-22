@@ -170,17 +170,21 @@ border-radius: 0 0 205PX 205pX;
 .title{
     display:table;
     justify-content: center;
-    font-size:  60px ;
+    font-size: xx-large;
+   
+    
 font-display: center;
     color: white;
-   margin-top: 4rem;
+   margin-top: 6rem;
     width: 100%;
+
     
 }
 .title p{
     display:table;
     justify-content: center;
-    font-size:  30px ;
+   
+    font-size: minmax(20px);
 margin-left: auto;
 margin-right: auto;
     color: white;
